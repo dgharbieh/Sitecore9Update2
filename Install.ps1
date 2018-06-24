@@ -8,7 +8,7 @@ $SolrRoot = "C:\Solr-6.6.2"
 $SolrService = "Solr"
 $SqlServer = "TAN-DGHARBIEH\SQL2016"
 $SqlAdminUser = "sa"
-$SqlAdminPassword="1100M@ss!"
+$SqlAdminPassword="XXXXX"
 #install client certificate for xconnect
 $certParams = @{
  Path = "$PSScriptRoot\xconnect-createcert.json"
